@@ -8,3 +8,5 @@ print(b)
 
 c = b + 9
 print(c)
+
+d = 0
